@@ -6,9 +6,9 @@ from imutils import face_utils
 from scipy.spatial import distance as dist
 import time
 import winsound
-from flask import Flask, Response, stream_with_context
 
-app = Flask(__name__)
+
+
 cam = cv2.VideoCapture(0)
 #------------Variables---------#
 blink_thresh=0.5

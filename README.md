@@ -27,4 +27,9 @@ This project implements a real-time eye blink detection system to monitor the bl
 4) imutils
 5) scipy
 
+**Blink Detection **
+
+1) ![image](https://github.com/user-attachments/assets/832eab64-792b-46c8-a544-a52d9941da4a)
+
+
 
